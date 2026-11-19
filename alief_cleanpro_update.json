@@ -1,0 +1,16 @@
+{
+ "product": "ALIEF_CLEANPRO",
+ "version": "6.0",
+ "date": "2026-11-19",
+ "notes": "ALIEF CLEANPRO 6.0 - PT. Alief Energy Utama, Batam\n\nBARU\n1. Spek Hardware: spesifikasi lengkap (CPU, RAM per keping & slot, GPU + VRAM, disk + kesehatan/suhu/keausan, motherboard, BIOS, baterai), panel kapasitas dan saran upgrade, simpan laporan.\n2. Optimasi Drive: TRIM untuk SSD, defrag untuk HDD, semua drive sekaligus; cek TRIM Windows dan jadwal optimasi.\n3. Optimasi Otomatis: bersihkan RAM otomatis saat penuh, bersih-bersih harian, jaga startup, optimasi drive mingguan, mode daya laptop, prioritas aplikasi CAD/FEA/render (ikon di system tray).\n4. Runtime & Driver: Visual C++ 2005-2026, DirectX, .NET 3.5/4.8.1, .NET Desktop Runtime, WebView2 dan driver Windows Update dipasang/diperbarui otomatis + Mode Kerja Berat & Rendering.\n5. Update otomatis untuk versi portable (paket bertanda tangan digital).",
+ "packages": [
+  {
+   "name": "app",
+   "file": "app-6.0.zip",
+   "size": 301120,
+   "sha256": "bca5ae056e17d88eb6ee06d4eb5927e7af954cf7261dc97c8df8510ba29ce9e6",
+   "url": "https://raw.githubusercontent.com/aliefen/alief-cleanpro-update/main/app-6.0.zip"
+  }
+ ],
+ "sig": "Wn6svkRn3b7U7R11Buw2HodXdbdFalxJhCyo9DjcXq+gop7jiBbsMNhi4FPPeC73mV/dW487jZLuritcXCVCby+UyNEwG32n8P5Zi0mJUaLFjBpP5eGCR6Xky+C5pXmm7e6VCZw6HhpA725BSW6reZu81J+/cAwoS72JUgEJQrnlC8dagg+T2sOKp27tf4J+OKo92xpQELfT4efzL7FkGeqoxDRhDRJrrmSbr+ZP/A55tht6I6VHhGxKSAL3VAzhbDX1DdfjTVr2U0Z/OFywjk+9b94x85xqzM/QxjyOkrnyTY1trqoM0ZlZByY6h+M3Wyt0XFUPjX6OxYF5ybaMg5bDrF4cTpvmtMN12nMmcqwRR7yLANGxnnGx7PhEKSUNDKfG4qhtSkaMPx8zIAQLvFCqPvlEQ+VxbestZX8E4HhW1KMWrQTUWc+NKKXXAxzKqb+azJNb97AaSzysEzOttVEowagoGHjW2zXINca7fqtNyaZefV0BmCaYp+UobTeI"
+}
