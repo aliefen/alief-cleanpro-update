@@ -1,16 +1,16 @@
 {
  "product": "ALIEF_CLEANPRO",
- "version": "6.1",
+ "version": "6.2",
  "date": "2026-11-21",
- "notes": "ALIEF CLEANPRO 6.1 - PT. Alief Energy Utama, Batam\n\nPERBAIKAN\n1. Antivirus sekarang hanya PEMBERITAHUAN - tidak lagi mengurangi skor kesehatan, jadi skor bisa 100% bila komponen lain sudah baik.\n2. Definisi antivirus Microsoft Defender diperbarui otomatis: saat aplikasi dibuka, oleh Optimasi Otomatis (tiap 8 jam) dan Perawatan terjadwal - juga saat real-time protection mati.\n3. Kartu Ringkasan (drive, RAM, Windows) dipersingkat agar teks tidak terpotong.",
+ "notes": "ALIEF CLEANPRO 6.2 - PT. Alief Energy Utama, Batam\n\nPERBAIKAN PENTING\n1. Versi 6.1 gagal dibuka (pesan \"side-by-side configuration is incorrect\") - sudah diperbaiki.\n2. Update otomatis sekarang menguji-jalankan versi baru lebih dulu. Bila tidak bisa dibuka, update dibatalkan dan versi lama tetap dipakai.\n3. Salinan program untuk jadwal & optimasi otomatis (ProgramData) disamakan otomatis saat aplikasi dibuka.\n\nTermasuk semua perbaikan 6.1: antivirus hanya pemberitahuan (skor bisa 100%), definisi antivirus diperbarui otomatis, kartu Ringkasan dipersingkat.",
  "packages": [
   {
    "name": "app",
-   "file": "app-6.1.zip",
-   "size": 302263,
-   "sha256": "6fc47c1d03e2f5efe1a24fa4e509eed3dc55d3469a1c2469a9ecff48b657306f",
-   "url": "https://raw.githubusercontent.com/aliefen/alief-cleanpro-update/main/app-6.1.zip"
+   "file": "app-6.2.zip",
+   "size": 302205,
+   "sha256": "ad62370728e8ed45d48c195a92ba8903d32b0ceeb741897246d4550e665ad793",
+   "url": "https://raw.githubusercontent.com/aliefen/alief-cleanpro-update/main/app-6.2.zip"
   }
  ],
- "sig": "fmWY0EDLC5SZ4we/uWCmSnXhwMKqUmmLg5+FgLqMW3jSJ1wi8xXVI1hZVo7r4CXQf/zpskJ5SwhP3hLddyzXYbVWTz01Kg181gU8CT8La3Nrw++AIZCdXQd7PZsn4X6rzj5gUeu49Cez4ect4wMtIrlPbuiYI0YtS5wzrWT09Ospg1PA04xIzUjqKqW3FmDTvApUEs0pReC3syEBdKeD/xgkkoMECcpld+oeUe6FKcAgTBPs87J2GdKeXsN0NZwmhwPO8KANFyOKmJwl+J6JkAf+1OaV6N6ooA0GZVABgZUt/eaHu5oe7ewNMSkS4AjAmT1CghMxPIdZGyLKSmMZAUT+x7Jf5DI4Rcss2rXx5M8MTG4Ggh8iO3CAwKNSpCeHTYNIGzmRWXDHEs164miFUIzn6V+U9MfK9D4iBsoYSnd3sQy95+rW62ehNw/lWX0SfFPqmn55NtCE7b5aG2TAlGAK8+Hbx75jzAf/qHmu6kuj+Uy5VcUw/0G3lFt7gVmO"
+ "sig": "Hrsy3+JOUCEKLK71aa4/1Wpa1dNPK2zATEOJUDdkggm4dWlrA9ytAdgIF+aQqg+2Nzn2sVmX5jNrKigbm/YvgYz3TxeV5wKRofJGWgYoX24Gsgs2UXKuTTVuFsaC7UAY852xG/RhIE+wVGbRg0sHtpq1jQIwqVM6YzVKpsXiZP1K2c2J7MO2vzsXl/MEPUyoJz+ouzNUtJXEBrekyuA33MPvTm4eCalXOkf3vpWQeQUpqtWPF2k0N4EP2Z9jyJI3e/hNsQCn9pgksPWeDN0AdZAANfIAJ3GhdwGxJ04IpDXGOp7SpiPn/c5r4GefDJUHxBx7BTJOhMWqGX0UTX1Hf9I8mBwjPug3DtUUS2dKpnPSlk9USmMhg/YYCs98oYfodI2Our+crBVo0wTa9cbCnwTyCqs7QFnndKZVHGM5HiXlbZCR/ua2/pysmbTCO06g+pxtz/ZaVSLakgnJYf+4P+vu7mB9JNE2Lc6A+0BQV164bC6ZG18tQKfyTUN+tzI/"
 }
